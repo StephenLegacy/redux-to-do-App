@@ -1,6 +1,6 @@
 import React from 'react'
 import Auth from '../components/Auth'
-import { motion } from 'framer-motion'
+// import { motion } from 'framer-motion'
 
 const Login = () => {
   return (
